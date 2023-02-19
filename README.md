@@ -1,4 +1,4 @@
 Site web réalisé dans le cadre d'un projet en SNT.
 
-> **Warning**
-> Plus aucune mise à jour ne sera effectuée.
+> **Info**
+> Deux versions sont disponibles : la version actuelle (index.html), ainsi que l'ancienne version (old_version.html).
